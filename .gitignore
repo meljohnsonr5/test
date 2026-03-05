@@ -1,0 +1,22 @@
+# Python 字节码
+__pycache__/
+*.py[cod]
+*.pyo
+
+# 用户数据库和加密文件（本地数据，不提交到仓库）
+users.db
+data/
+
+# PyInstaller 打包产物
+build/
+dist/
+*.spec
+
+# 虚拟环境
+venv/
+.venv/
+env/
+
+# 系统文件
+.DS_Store
+Thumbs.db
